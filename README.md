@@ -1,8 +1,8 @@
 ## Hi, I am Vinod Pawar 👋
 
-`>_ `**Technology enthusiast**
+`>_ `**Technology enthusiast, curious always**
 
-## About me
+## About me 
 
 - 🔭 Currently working on: **Submeter Bill Generator**
 - 🌱 Currently learning: **System Design, Networking, DSA**
