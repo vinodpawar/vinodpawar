@@ -1,12 +1,12 @@
-# Hi, I am Vinod Pawar 👋
+## Hi, I am Vinod Pawar 👋
 
-**Technology enthusiast**
+`>_ `**Technology enthusiast**
 
 ## About me
 
-- 🔭 Currently working on: **Sub meter bill generator**
-- 🌱 Currently learning: **System design, Networking, DSA**
-- 💡 I enjoy: **Competitive programming, building useful tools**
+- 🔭 Currently working on: **Submeter Bill Generator**
+- 🌱 Currently learning: **System Design, Networking, DSA**
+- 💡 I enjoy: **Competitive Programming, Building useful tools**
 - 🌐 My website: [vinodpawar.com](https://vinodpawar.com)
 - 📫 Email: [contact@vinodpawar.com](mailto:contact@vinodpawar.com)
 
@@ -19,14 +19,14 @@
 
 ## Featured Projects
 
-### [Sub meter](https://github.com/vinodpawar/submeter)
+### [Submeter Bill Generator](https://github.com/vinodpawar/submeter)
 
-A Java-based tool to calculate monthly sub meter bills for tenants.
+A JavaScript based tool to calculate monthly sub meter bills for tenants.
 Try it here: [vinodpawar.com/submeter](https://vinodpawar.com/submeter)
 
 ## Let's connect
 
-I am open to collaborations, interesting projects and good conversation about code and tech. Simply email me at [contact@vinodpawar.com](mailto:contact@vinodpawar.com).
+I am open to collaborations, interesting projects and good conversation about code and tech. You can write me at [contact@vinodpawar.com](mailto:contact@vinodpawar.com)
 
 
 <!--
